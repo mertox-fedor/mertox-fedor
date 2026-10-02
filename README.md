@@ -1,16 +1,28 @@
-## Hi there 👋
+# Привет, я Федя
 
-<!--
-**mertox-fedor/mertox-fedor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я студент который пытается научиться программировать.
 
-Here are some ideas to get you started:
+## Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 19 лет
+- Учусь на 2 курсе
+- Направление "Программная инженерия"
+
+## Сейчас изучаю
+
+- С++
+- Git/GitHub
+- C#
+- Python
+- Linux
+- OpenWRT
+- сети
+
+## Проекты
+
+Тут будут появляться мои проекты, сейчас пытаюсь сделать приложение для настройки, управления и установки ВПН на роутер
+
+## Цель
+
+Разобраться в том, что изучаю. Придумать и реализовать проекты которые реально могут быть использованы людьми.
+В планах создать реальное портфолио для работы.
